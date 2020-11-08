@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "905834591041",
+    "firebase_url": "https://chatchit-3d720.firebaseio.com",
+    "project_id": "chatchit-3d720",
+    "storage_bucket": "chatchit-3d720.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905834591041:android:7708ae664af34f1ece67c0",
+        "android_client_info": {
+          "package_name": "com.messengerfake"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905834591041-7huppl6hr650mj3v7all9e08cc0fj6lb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfcMs-rwqZP-aqn-gRSpcMvZu6kyrz5Hs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905834591041-7huppl6hr650mj3v7all9e08cc0fj6lb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
